@@ -21,3 +21,15 @@
 2. Второйc пункт 
 3. Третий пункт
 
+## Работа с изображениями
+
+Что бы вставить изображение в текст, достаточно написать следующее:
+![qg, uglyfam discord na sviazi](uglyfam.jpg)
+
+## Ссылки
+[польза для общества](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[без приувеличения важная инфа](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[лучший день капибары](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
